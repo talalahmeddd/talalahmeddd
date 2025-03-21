@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalahmeddd&label=Profile%20views&color=0e75b6&style=flat" alt="talalahmeddd" /> </p>
 
-- 🌱 I’m currently learning **NextJs, cypress**
+- 🌱 I’m currently learning **LangChain, Agentic AI**
 
-- 💬 Ask me about **react, javascript, automation, AI/ML**
+- 💬 Ask me about **react, javascript, automation, AI/ML, Playwright, cypress,CI/CD**
 
 - 📫 How to reach me **talal.ahmed109@gmail.com**
 
